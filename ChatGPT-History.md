@@ -26,7 +26,7 @@ Source Reference Texts:
 Comp Sci source text: Wikipedia page on machine learning  |as used in study:(Pawar, Dube, Joshi, Gulhane, & Patil, 2024)
 <https://en.wikipedia.org/wiki/Machine_learning>
 
-Medicine source text: bailey and love sshort practice of surgery 27th  |as used in study:(Cheung et al., 2023)
+Medicine source text: bailey and love short practice of surgery 27th  |as used in study:(Cheung et al., 2023)
 <https://jasu.kg/wp-content/uploads/2024/04/27th-Bailey-Loves-Short-Practice-of-Surgery-27th.pdf>
 
 Sample MCQs:
