@@ -22,6 +22,7 @@ Level 3, Medical Education:
 <https://chatgpt.com/share/698674f8-4d10-8008-bdd2-59db715cc47c>
 
 Source Reference Texts:
+
 Comp Sci source text: Wikipedia page on machine learning  |as used in study:(Pawar, Dube, Joshi, Gulhane, & Patil, 2024)
 <https://en.wikipedia.org/wiki/Machine_learning>
 
@@ -29,6 +30,7 @@ Medicine source text: bailey and love sshort practice of surgery 27th  |as used 
 <https://jasu.kg/wp-content/uploads/2024/04/27th-Bailey-Loves-Short-Practice-of-Surgery-27th.pdf>
 
 Sample MCQs:
+
 Comp Sci (data science platform): <https://www.interviewbit.com/machine-learning-mcq/>
 
 Medical (clinical case resources): <https://www.studocu.com/row/document/zagazig-university/pathology/diabetic-foot-clinical-case-scenario-mcq/50316508>
